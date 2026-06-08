@@ -37,3 +37,7 @@ These data files are not included in this repository.
 
 ```bash
 pip install pandas matplotlib seaborn openpyxl
+
+## License
+
+This repository uses the MIT License for source code only. The license does not apply to TEJ data, World Bank data, course materials, or private datasets.
