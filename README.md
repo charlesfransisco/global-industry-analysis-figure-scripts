@@ -17,6 +17,15 @@ This repository contains two Python scripts used to generate selected figures fo
 - `worldbank_internet_usage_labeled.png`
 - `correlation_heatmap.png`
 
+EX:
+<img width="697" height="578" alt="image" src="https://github.com/user-attachments/assets/a58d3ed3-23a3-4847-9338-62003040edf0" />
+<img width="2621" height="1451" alt="worldbank_gdp_growth_labeled" src="https://github.com/user-attachments/assets/2f10990b-7100-4064-a064-e5ddea35a2c0" />
+<img width="2612" height="1451" alt="worldbank_internet_usage_labeled" src="https://github.com/user-attachments/assets/14aceb0b-30db-45f0-823f-cffd648507e5" />
+<img width="2648" height="1451" alt="worldbank_household_consumption_labeled" src="https://github.com/user-attachments/assets/18bdfd74-4b87-4f37-8416-858bf47b93c8" />
+
+
+
+
 `financial_ratio_scorecard.py` creates:
 
 - `financial_ratio_scorecard.png`
