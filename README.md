@@ -4,11 +4,9 @@ This repository contains two Python scripts used to generate selected figures fo
 
 ## Files
 
-- `references/report_figures.py`  
-  Generates World Bank macro charts and the correlation heatmap.
+- `references/report_figures.py`  -> Generates World Bank macro charts and the correlation heatmap.
 
-- `references/financial_ratio_scorecard.py`  
-  Generates the financial ratio scorecard.
+- `references/financial_ratio_scorecard.py` -> Generates the financial ratio scorecard.
 
 ## Output Figures
 
