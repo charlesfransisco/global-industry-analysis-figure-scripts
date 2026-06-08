@@ -1,4 +1,4 @@
-<img width="697" height="578" alt="image" src="https://github.com/user-attachments/assets/ad84e458-8239-4d16-a835-b17bcb8235a8" /># Global Industry Analysis - Figure Scripts
+Analysis - Figure Scripts
 
 This repository contains two Python scripts used to generate selected figures for a Global Industry Analysis final report.
 
