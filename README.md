@@ -1,4 +1,4 @@
-Analysis - Figure Scripts
+## Analysis - Figure Scripts
 
 This repository contains two Python scripts used to generate selected figures for a Global Industry Analysis final report.
 
