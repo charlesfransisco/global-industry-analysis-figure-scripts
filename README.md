@@ -1,4 +1,4 @@
-# Global Industry Analysis - Figure Scripts
+<img width="697" height="578" alt="image" src="https://github.com/user-attachments/assets/ad84e458-8239-4d16-a835-b17bcb8235a8" /># Global Industry Analysis - Figure Scripts
 
 This repository contains two Python scripts used to generate selected figures for a Global Industry Analysis final report.
 
@@ -17,7 +17,8 @@ This repository contains two Python scripts used to generate selected figures fo
 - `worldbank_internet_usage_labeled.png`
 - `correlation_heatmap.png`
 
-EX:
+### Example
+
 <img width="697" height="578" alt="image" src="https://github.com/user-attachments/assets/a58d3ed3-23a3-4847-9338-62003040edf0" />
 <img width="2621" height="1451" alt="worldbank_gdp_growth_labeled" src="https://github.com/user-attachments/assets/2f10990b-7100-4064-a064-e5ddea35a2c0" />
 <img width="2612" height="1451" alt="worldbank_internet_usage_labeled" src="https://github.com/user-attachments/assets/14aceb0b-30db-45f0-823f-cffd648507e5" />
